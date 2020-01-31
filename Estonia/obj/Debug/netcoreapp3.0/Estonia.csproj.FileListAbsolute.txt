@@ -1,0 +1,13 @@
+/Users/Britta/Documents/Progemine/Estonia/Estonia/Estonia/obj/Debug/netcoreapp3.0/Estonia.csprojAssemblyReference.cache
+/Users/Britta/Documents/Progemine/Estonia/Estonia/Estonia/obj/Debug/netcoreapp3.0/Estonia.AssemblyInfoInputs.cache
+/Users/Britta/Documents/Progemine/Estonia/Estonia/Estonia/obj/Debug/netcoreapp3.0/Estonia.AssemblyInfo.cs
+/Users/Britta/Documents/Progemine/Estonia/Estonia/Estonia/bin/Debug/netcoreapp3.0/Estonia
+/Users/Britta/Documents/Progemine/Estonia/Estonia/Estonia/bin/Debug/netcoreapp3.0/Estonia.deps.json
+/Users/Britta/Documents/Progemine/Estonia/Estonia/Estonia/bin/Debug/netcoreapp3.0/Estonia.runtimeconfig.json
+/Users/Britta/Documents/Progemine/Estonia/Estonia/Estonia/bin/Debug/netcoreapp3.0/Estonia.runtimeconfig.dev.json
+/Users/Britta/Documents/Progemine/Estonia/Estonia/Estonia/bin/Debug/netcoreapp3.0/Estonia.dll
+/Users/Britta/Documents/Progemine/Estonia/Estonia/Estonia/bin/Debug/netcoreapp3.0/Estonia.pdb
+/Users/Britta/Documents/Progemine/Estonia/Estonia/Estonia/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/Britta/Documents/Progemine/Estonia/Estonia/Estonia/obj/Debug/netcoreapp3.0/Estonia.csproj.CopyComplete
+/Users/Britta/Documents/Progemine/Estonia/Estonia/Estonia/obj/Debug/netcoreapp3.0/Estonia.dll
+/Users/Britta/Documents/Progemine/Estonia/Estonia/Estonia/obj/Debug/netcoreapp3.0/Estonia.pdb
